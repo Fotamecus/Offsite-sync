@@ -8,11 +8,12 @@
   "compatibility": {
     "minimum": 10,
     "verified": 10,
-    "maximum": 10
+    "maximum": 11
   },
   "authors": [
     {
       "name": "Rastafa",
+      "url": "https://github.com/Fotamecus",
       "discord": "rastafa"
     }
   ],
